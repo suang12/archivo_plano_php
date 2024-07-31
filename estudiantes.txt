@@ -1,0 +1,29 @@
+Nombre,Edad,Grado
+Brayan Suan 19-11-5
+Nicolas Charlarca 16,11-5
+Madelin Rodriguez 16,11-3
+Orlando Villareal 17,11-1
+Manuel Arenas 17,11-1
+renyeslis Luyando 18,11-2
+jhonathan Benitez 16,11-5
+Laura Quintana 16,11-2
+nicolle Ortiz 16-11-1
+Daniel Sierra 18-11-2
+Oscar Ardila 16-11-5
+David Rangel 18,11-4
+katalina Ayala 16-11-5
+German Ordoñez 16-11-3
+Andres Wandurraga 17,11-4
+Andres Suarez 17-11-2
+Paul Colmenares 17-11-5
+Ruby Carreño 17-11-2
+luz Araque 16-11-4
+Angelica Alvarez 16-11-5
+Gina Carvajal-17-11-1
+Jeferson Zambrano 17-11-3
+Stanly Sequeda 16-11-4
+Andres Garcia 17-11-1
+Adrian Forero 17,-11-2
+Mayerli Uribe 17-11-3
+Sebastian Hernandez 16-11-4
+
